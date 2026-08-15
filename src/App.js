@@ -1,5 +1,5 @@
-import Header from "./components/header";
-import Card from "./components/card";
+//import Header from "./components/header";
+//import Card from "./components/card";
 import Todocontainer from "./components/todocontainer";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { useState } from "react";
